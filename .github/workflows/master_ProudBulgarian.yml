@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'ProudBulgarian'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f624991f9a1c478bbfdd3b5745662e35 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_49a49302d1704fb899eea82cc909ec5a }}
         package: .
